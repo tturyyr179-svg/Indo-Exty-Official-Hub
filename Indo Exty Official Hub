@@ -1,0 +1,112 @@
+<!<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indo Exty | Official Gaming Hub - 2027</title>
+    <style>
+        body {
+            background-color: #0b0e14;
+            color: #ffffff;
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .banner-container {
+            width: 100%;
+            background-color: #000;
+            padding: 10px 0;
+            border-bottom: 4px solid #2d5a27;
+        }
+        .banner-container img {
+            width: 95%;
+            max-width: 500px;
+            border-radius: 8px;
+            border: 2px solid #00ffcc;
+        }
+        header {
+            background: linear-gradient(135deg, #1b4332, #2d6a4f);
+            padding: 20px;
+            border-bottom: 4px solid #000;
+        }
+        h1 { margin: 0; font-size: 28px; color: #00ffcc; text-shadow: 2px 2px #000; }
+        .live-badge {
+            display: inline-block;
+            background-color: #ff0055;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 12px;
+            font-weight: bold;
+            margin-top: 8px;
+            text-transform: uppercase;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+        .container { padding: 20px; }
+        .btn {
+            display: block;
+            width: 85%;
+            margin: 15px auto;
+            padding: 14px;
+            color: white;
+            text-decoration: none;
+            border: 3px solid #000;
+            font-weight: bold;
+            border-radius: 8px;
+            text-transform: uppercase;
+            font-size: 15px;
+            box-shadow: 0px 4px 0px #000;
+        }
+        .yt-btn { background-color: #ff0000; }
+        .dc-btn { background-color: #5865F2; }
+        .friend-btn { background-color: #ffaa00; color: #000; }
+    </style>
+</head>
+<body>
+
+    <div class="banner-container">
+        <img src="https://cdn.discordapp.com/attachments/1531675107347529732/1550732912284934144/file_00000000669882118784edd178322560.png?ex=6aaf6811&is=6aae1691&hm=cc0fe9ec9ec70e502ddcebc0ab5b2b861e06341d0ffd5c10df4a77c1d72cc7bd&" alt="CrazyGaming_Real Banner">
+    </div>
+
+    <header>
+        <h1>Indo Exty</h1>
+        <div class="live-badge">🔥 Welcome 2027 Hub 🔥</div>
+    </header>
+
+    <div class="container">
+        <h2>Welcome Miner! (2027 Edition)</h2>
+        <p>Here you will find the most dangerous survival videos, updates for Minecraft, Roblox, and special festive tracks!</p>
+
+        <!-- Social & Channel Buttons -->
+        <a href="https://youtube.com/@crazygaming_real?si=4DPKVZb2YHOlYOaT" class="btn yt-btn" target="_blank">▶ Visit YouTube Channel</a>
+        <a href="https://discord.gg/d4chVX3EK9" class="btn dc-btn" target="_blank">💬 Join Discord 1</a>
+        <a href="https://discord.gg/TXUve4NaKg" class="btn dc-btn" target="_blank">💬 Join Discord 2</a>
+
+        <h3 style="margin-top: 35px; color: #00ffcc;">🎵 Special Songs & New Videos</h3>
+        <a href="https://youtu.be/PP6uNXFbHMI?si=uWw8wjvHE3dxRfGZ" class="btn yt-btn" target="_blank">🌟 Ganesh Puja Special Song</a>
+        <a href="https://youtu.be/HJL0-gfvg8I?si=xT1wRtGWJHIVHMiW" class="btn yt-btn" target="_blank">🎉 Subscriber Special Song</a>
+        <a href="https://youtube.com/@crazygaming_real?si=4DPKVZb2YHOlYOaT" class="btn yt-btn" target="_blank">🎮 CrazyGaming Real Hub</a>
+
+        <h3 style="margin-top: 35px; color: #00ffcc;">👥 Friends YouTube Channels</h3>
+        <a href="https://youtube.com/@itzwarden_gamer?si=jRcjnTWglrrTmmVk" class="btn friend-btn" target="_blank">🔥 ItzWarden Gamer</a>
+        <a href="https://youtube.com/@robrospk?feature=shared" class="btn friend-btn" target="_blank">🔥 Robros PK</a>
+
+        <!-- Video Embed Section -->
+        <h3 style="margin-top: 35px; color: #00ffcc;">My Top Video</h3>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 10px; border-radius: 10px;">
+            <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 3px solid #2d5a27;" 
+                src="https://www.youtube.com/embed/5Pbftc49D3I" 
+                frameborder="0" 
+                allowfullscreen></iframe>
+        </div>
+    </div>
+
+</body>
+</html>
+
